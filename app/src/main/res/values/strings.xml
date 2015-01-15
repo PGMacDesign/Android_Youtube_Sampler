@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Youtube Basics</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">How the Desolation of Smaug Should Have Ended</string>
+    <string name="title_section3">How it Should Have Ended Playlist Sampler</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hishe_classic_films_playlist_url">imhOT0Avg-R-PrHjrMvwriny4OyOsxhK</string>
+    <string name="hishe_video">nJOSAwNzyi4</string>
+
+</resources>
